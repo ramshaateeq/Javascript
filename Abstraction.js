@@ -3,7 +3,7 @@ function Employee(name, id, basesalary)
 this.name = name;
 this.id = id;
 this.basesalary = basesalary
-let monthlyBonus = 1000;
+let monthlyBonus = 10000;
 
 let CalculatefinalSalary = function()
 {
